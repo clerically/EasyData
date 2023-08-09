@@ -37,13 +37,7 @@ function StringUtil.IsEmpty(input: string?)
 
     -- @TODO: Add other whitespace characters?
 
-    local length = string.len(processed)
-
-    if (length > 0) then
-        return false
-    else
-        return true
-    end
+    return (string.len(processed) == 0)
 end
 
 function StringUtil.CheckComponentLength(value: string?, component: string?)
