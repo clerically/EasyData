@@ -1,0 +1,15 @@
+# Project place file
+/EasyData.rbxlx
+
+# Roblox Studio lock files
+/*.rbxlx.lock
+/*.rbxl.lock
+
+# Testing sources
+
+src/client
+src/server
+
+# Misc
+
+.vscode/

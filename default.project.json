@@ -1,0 +1,25 @@
+{
+  "name": "EasyData",
+
+  "tree": {
+    "$className": "DataModel",
+
+    "ReplicatedStorage": {
+        "$path": "src/shared"
+    },
+
+    "ServerScriptService": {
+      "Server": {
+        "$path": "src/server"
+      }
+    },
+
+    "StarterPlayer": {
+      "StarterPlayerScripts": {
+        "Client": {
+          "$path": "src/client"
+        }
+      }
+    }
+  }
+}
