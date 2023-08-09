@@ -5,7 +5,7 @@ A Roblox DataStore wrapper for beginner scripters.
 > ## ⚠️ Warning ⚠️
 > EasyData is nowhere near complete. Only very basic functionality has been implemented, and as such it is strongly recommended to **not use this** until later in development.
 > 
-> For more information regarding feature implementation, please see the [Feature Roadmap](#roadmap) below.
+> For more information regarding feature implementation, please see the [Feature Roadmap](#feature-roadmap) below.
 
 ## Feature Roadmap
  - ✅ -> Finished
